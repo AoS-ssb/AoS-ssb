@@ -1,41 +1,19 @@
-<h1 align="center">Kevin Diaz &nbsp;·&nbsp; <code>AoS-ssb</code></h1>
+# Kevin Diaz
 
-<p align="center">
-  Platform &amp; infrastructure engineer — homelab, automation, and self-hosted AI.
-</p>
+Senior platform engineer and forward-deployed technical builder focused on turning
+ambiguous requirements into secure, operable systems.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Infrastructure_as_Code-844FBA?style=flat&logo=terraform&logoColor=white" alt="IaC"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Self--hosted_AI-000000?style=flat&logo=openai&logoColor=white" alt="Self-hosted AI"/>
-  <img src="https://img.shields.io/badge/Observability-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Observability"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-</p>
+I work across architecture, automation, integrations, and production readiness—bridging
+customer needs with hands-on delivery and clear technical enablement.
 
----
+## Focus
 
-### 👋 About
+- **Platform engineering:** Azure, Linux, containers, Kubernetes, and infrastructure as code
+- **Automation and delivery:** Python, Ansible, Terraform, Bicep, and CI/CD
+- **Reliability and security:** observability, policy as code, compliance, and incident response
+- **Field engineering:** discovery, rapid prototyping, integration, documentation, and handoff
 
-I build and automate self-hosted systems end to end — provisioning, CI/CD, observability, and
-increasingly **self-hosted AI**. Most of my work lives in private repositories; this profile is
-just the shape of what I do.
+## Public projects
 
-### 🧰 Focus areas
-
-- **Infrastructure-as-Code & automation** — Ansible, Terraform, Bicep, cloud-init
-- **Self-hosted AI** — local LLMs, image generation, agentic tooling, the Model Context Protocol
-- **Observability & compliance** — Prometheus, Grafana, OpenSCAP / STIG
-- **Hybrid cloud** — Azure
-
-### 🌱 Public projects
-
-- [`snake-game`](https://github.com/AoS-ssb/snake-game) — a single-file HTML5 Canvas game
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AoS-ssb&show_icons=true&hide_border=true&include_all_commits=true&theme=default" alt="GitHub stats" height="150"/>
-</p>
-
-<p align="center"><i>“Automate the boring, monitor the rest.”</i></p>
+- [Snake](https://github.com/AoS-ssb/snake-game) — a compact HTML5 Canvas
+  implementation of the classic game
